@@ -24,16 +24,16 @@ Timestamps:
 02:27:55 - ☑️ PDO First Steps
 02:42:18 - ☑️ Extract a PHP Database Class
 02:52:54 - ☑️ Environments and Configuration Flexibility
-03:05:54 - SQL Injection Vulnerabilities Explained
-03:16:52 - Database Tables and Indexes
-03:24:43 - Render the Notes and Note Pages
-03:39:10 - Introduction to Authorization
-03:53:31 - Programming is Rewriting
-04:05:48 - Intro to Forms and Request Methods
-04:23:56 - Always Escape Untrusted Input
-04:32:17 - Intro to Form Validations
-04:45:07 - Extract a Simple Validator Class
-04:56:51 - Resourceful Naming Conventions
+03:05:54 - ☑️ SQL Injection Vulnerabilities Explained
+03:16:52 - ☑️ Database Tables and Indexes
+03:24:43 - ☑️ Render the Notes and Note Pages
+03:39:10 - ☑️ Introduction to Authorization
+03:53:31 - ☑️ Programming is Rewriting
+04:05:48 - ☑️ Intro to Forms and Request Methods
+04:23:56 - ☑️ Always Escape Untrusted Input
+04:32:17 - ☑️ Intro to Form Validations
+04:45:07 - ☑️ Extract a Simple Validator Class
+04:56:51 - ☑️ Resourceful Naming Conventions
 05:03:27 - PHP Autoloading and Extractions
 05:23:04 - Namespacing: What, Why, How?
 05:34:14 - Handle Multiple Request Methods From a Controller Action?
