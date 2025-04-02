@@ -34,9 +34,9 @@ Timestamps:
 04:32:17 - ☑️ Intro to Form Validations
 04:45:07 - ☑️ Extract a Simple Validator Class
 04:56:51 - ☑️ Resourceful Naming Conventions
-05:03:27 - PHP Autoloading and Extractions
-05:23:04 - Namespacing: What, Why, How?
-05:34:14 - Handle Multiple Request Methods From a Controller Action?
+05:03:27 - ☑️ PHP Autoloading and Extractions
+05:23:04 - ☑️ Namespacing: What, Why, How?
+05:34:14 - ☑️ Handle Multiple Request Methods From a Controller Action?
 05:46:27 - Build a Better Router
 06:07:10 - One Request, One Controller
 06:14:17 - Make Your First Service Containers
