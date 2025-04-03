@@ -37,8 +37,8 @@ Timestamps:
 05:03:27 - ☑️ PHP Autoloading and Extractions
 05:23:04 - ☑️ Namespacing: What, Why, How?
 05:34:14 - ☑️ Handle Multiple Request Methods From a Controller Action?
-05:46:27 - Build a Better Router
-06:07:10 - One Request, One Controller
+05:46:27 - ☑️ Build a Better Router
+06:07:10 - ☑️ One Request, One Controller
 06:14:17 - Make Your First Service Containers
 06:33:40 - Updating With PATCH Requests
 06:54:55 - PHP Sessions 101
