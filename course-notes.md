@@ -40,7 +40,7 @@ Timestamps:
 05:46:27 - ☑️ Build a Better Router
 06:07:10 - ☑️ One Request, One Controller
 06:14:17 - ☑️ Make Your First Service Containers
-06:33:40 - Updating With PATCH Requests
+06:33:40 - ☑️ Updating With PATCH Requests
 06:54:55 - PHP Sessions 101
 07:08:51 - Register a New User
 07:27:50 - Introduction to Middleware
